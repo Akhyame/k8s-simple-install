@@ -1,0 +1,4 @@
+# Ce fichier contient les adresses IP et noms des machines
+master.example.com 192.168.1.10
+worker1.example.com 192.168.1.11
+worker2.example.com 192.168.1.12
